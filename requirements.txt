@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+spacy>=3.7.0
+pandas>=2.0.0
+python-dateutil>=2.8.0
+
+# For spaCy English model (install separately after requirements)
+# python -m spacy download en_core_web_sm
