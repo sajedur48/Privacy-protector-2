@@ -11,9 +11,3 @@ An intelligent system that automatically detects and redacts sensitive informati
 - **Performance Metrics**: Levenshtein similarity scoring
 - **Export Results**: Download redacted text and entity reports
 
-## 🛠️ Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/privacy-protector-app.git
-   cd privacy-protector-app
